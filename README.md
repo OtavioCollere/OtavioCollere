@@ -1,7 +1,8 @@
 ### Bem Vindo(a), eu sou o Otavio Collere 👋
 
 - 🔭 Futuro Desenvolvedor Full-Stack
-- 🌱 JavaScript / PHP
+- 🌱 Typescript / PHP / MySQL / MongoDB
+- Node JS, React JS 
 
 <div align="center">
   <a href="https://github.com/OtavioCollere">

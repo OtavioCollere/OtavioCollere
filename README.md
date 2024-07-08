@@ -1,8 +1,12 @@
 ### Bem Vindo(a), eu sou o Otavio Collere 👋
 
 - 🔭 Desenvolvedor Full-Stack
-- 🌱 Typescript / PHP / MySQL / MongoDB
-- Node JS, React JS 
+- 🌱 Typescript 
+- Node JS
+- React JS
+- TypeORM
+- MongoDb
+- PostgreeSQL / MySQL 
 
 <div align="center">
   <a href="https://github.com/OtavioCollere">

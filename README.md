@@ -1,10 +1,10 @@
 ### Bem Vindo(a), eu sou o Otavio Collere 👋
 
-- 🔭 Desenvolvedor Full-Stack
+- 🔭 Desenvolvedor Backend
 - 🌱 Typescript 
 - Node JS
-- React JS
-- TypeORM
+- Nest js
+- PrismaORM
 - MongoDb
 - PostgreeSQL / MySQL 
 

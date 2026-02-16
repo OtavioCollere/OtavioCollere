@@ -6,7 +6,9 @@
 - Nest js
 - PrismaORM
 - MongoDb
-- PostgreeSQL / MySQL 
+- PostgreeSQL / MySQL
+- AWS
+- GCP
 
 <div align="center">
   <a href="https://github.com/OtavioCollere">

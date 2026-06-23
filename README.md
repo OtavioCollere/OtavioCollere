@@ -1,21 +1,16 @@
-<h1 align="center">Otavio Collere 👋</h1>h1>
+<div align="center">
 
-<p align="center">
-  <strong>Desenvolvedor Backend & Full Stack</strong>strong><br/>
-    Node.js · NestJS · TypeScript · PostgreSQL · MongoDB · AWS · Docker · Clean Architecture
-</p>p>
+# Otavio Collere 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/otavio-takaki/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-otavio--takaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>a>
-    <a href="mailto:otaviosk59@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-otaviosk59-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>a>
-    <a href="https://portfolio-otavio-orpin.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-online-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>a>
-</p>p>
+**Desenvolvedor Backend & Full Stack**
+
+Node.js · NestJS · TypeScript · PostgreSQL · MongoDB · AWS · Docker · Clean Architecture
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-otavio--takaki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-takaki/)
+[![Gmail](https://img.shields.io/badge/Gmail-otaviosk59-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviosk59@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-online-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-otavio-orpin.vercel.app)
+
+</div>
 
 ---
 
@@ -99,11 +94,10 @@ Agente de reativação de pacientes para clínicas de estética. Identifica inat
 ## GitHub Stats
 
 <div align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=OtavioCollere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=OtavioCollere&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCollere&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>div>
 
 ---
 
-<p align="center">Curitiba, Paraná, Brasil 🇧🇷 — Aberto a oportunidades remotas</p>p>
-  </strong>
+<div align="center">Curitiba, Paraná, Brasil 🇧🇷 — Aberto a oportunidades remotas</div>div>
